@@ -1,1 +1,13 @@
 /* add CSS class and element and selectors here */
+
+h1 {color:blue;}
+
+ body {
+      background-color: lightblue;
+      font-size: 150%;
+ }
+ .myClass{ background-color: green;
+   font-size:150%;
+   
+ }
+ 
